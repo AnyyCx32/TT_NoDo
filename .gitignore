@@ -1,0 +1,15 @@
+# Artefactos de compilación
+build/
+*.uf2
+*.elf
+*.bin
+*.hex
+
+# Credenciales
+credenciales.h
+secrets.h
+.env
+
+# Sistema
+Thumbs.db
+.DS_Store
